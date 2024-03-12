@@ -1,0 +1,22 @@
+C:\Users\Patri\source\repos\Create It\obj\Debug\Create It.vbproj.AssemblyReference.cache
+C:\Users\Patri\source\repos\Create It\obj\Debug\Create It.vbproj.GenerateResource.cache
+C:\Users\Patri\source\repos\Create It\obj\Debug\Create It.vbproj.CoreCompileInputs.cache
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.Form2.resources
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.LoginScreen.resources
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.Manager_and_Admin_Form.resources
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.Resources.resources
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.SignUp.resources
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.Form1.resources
+C:\Users\Patri\source\repos\Create It\bin\Debug\CineFlick.exe.config
+C:\Users\Patri\source\repos\Create It\bin\Debug\CineFlick.exe
+C:\Users\Patri\source\repos\Create It\bin\Debug\CineFlick.pdb
+C:\Users\Patri\source\repos\Create It\bin\Debug\CineFlick.xml
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.exe
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.xml
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.pdb
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.Available_Time.resources
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.Transaction.resources
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.AvailableMovies.resources
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.About_App.resources
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.AboutDeveloper.resources
+C:\Users\Patri\source\repos\Create It\obj\Debug\CineFlick.UserManager.resources

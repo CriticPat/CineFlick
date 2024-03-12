@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CineFlick
+</name>
+</assembly>
+<members>
+<member name="T:CineFlick.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CineFlick.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CineFlick.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:CineFlick.My.Resources.Resources.Disabled_SYmbol">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CineFlick.My.Resources.Resources.Hide">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CineFlick.My.Resources.Resources.selected">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CineFlick.My.Resources.Resources.Show">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CineFlick.My.Resources.Resources.unselected">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSet.UserDEtailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSet.UserInfoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSet.UserRegiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSet.UserDEtailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSet.UserInfoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSet.UserRegiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSet.UserDEtailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSet.UserInfoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSet.UserRegiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSetTableAdapters.UserDEtailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSetTableAdapters.UserInfoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSetTableAdapters.UserRegiTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CineFlick.CineFlickDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CineFlick.CineFlickDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CineFlick.CineFlickDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CineFlick.CineFlickDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CineFlick.CineFlickDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CineFlick.CineFlickDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CineFlick.CineFlickDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CineFlick.CineFlickDataSetTableAdapters.TableAdapterManager.UpdateAll(CineFlick.CineFlickDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CineFlick.CineFlickDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
